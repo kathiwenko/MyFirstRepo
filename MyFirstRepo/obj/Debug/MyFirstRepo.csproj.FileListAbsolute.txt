@@ -1,0 +1,8 @@
+C:\Users\Katharina Wenko\Documents\SCHULE\SCHULE 1718\SWE\Git\MyFirstRepo\MyFirstRepo\bin\Debug\MyFirstRepo.exe.config
+C:\Users\Katharina Wenko\Documents\SCHULE\SCHULE 1718\SWE\Git\MyFirstRepo\MyFirstRepo\bin\Debug\MyFirstRepo.exe
+C:\Users\Katharina Wenko\Documents\SCHULE\SCHULE 1718\SWE\Git\MyFirstRepo\MyFirstRepo\bin\Debug\MyFirstRepo.pdb
+C:\Users\Katharina Wenko\Documents\SCHULE\SCHULE 1718\SWE\Git\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.csprojResolveAssemblyReference.cache
+C:\Users\Katharina Wenko\Documents\SCHULE\SCHULE 1718\SWE\Git\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.Properties.Resources.resources
+C:\Users\Katharina Wenko\Documents\SCHULE\SCHULE 1718\SWE\Git\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.csproj.GenerateResource.Cache
+C:\Users\Katharina Wenko\Documents\SCHULE\SCHULE 1718\SWE\Git\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.exe
+C:\Users\Katharina Wenko\Documents\SCHULE\SCHULE 1718\SWE\Git\MyFirstRepo\MyFirstRepo\obj\Debug\MyFirstRepo.pdb
